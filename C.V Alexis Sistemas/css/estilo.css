@@ -78,6 +78,7 @@ body {
     height: 80%;
     background-color: aliceblue;
     border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
     background-color:rgb(255, 255, 255);
   
 
@@ -111,6 +112,7 @@ body {
     background-color: rgb(255, 255, 255);
     text-align: left;
     width: 500px;
+    
   }
 .caja h4{
   margin-bottom: auto;
@@ -120,4 +122,25 @@ body {
   margin-top: auto;
   margin-bottom: auto;
 
+}
+
+
+#muestra-seccion{
+  height: 10%;
+  width: 100%;
+}
+
+#muestra-seccion #alexis{
+  width: 10%;
+  height: 10%;
+}
+
+
+footer{
+  height: 10%;
+  background-color: rgb(234, 232, 232);
+  margin-left: 2.5%;
+  width: 95%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
 }
